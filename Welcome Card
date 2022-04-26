@@ -1,0 +1,9 @@
+Here is a quick welcome card you can use for your bot, this will not work 100% of the time due to limitations. 
+
+PopCat Link 
+> https://api.popcat.xyz/welcomecard?background=https://cdn.discordapp.com/attachments/850808002545319957/859359637106065408/bg.png&text1=Zero%20Two&text2=Welcome+To+Pop+Cat+Community&text3=Member+219&avatar=https://media.discordapp.net/attachments/819491776988839939/876122609031471114/colorify.png
+
+
+BotGhost Version 
+> https://api.popcat.xyz/welcomecard?background=https://wallpapercave.com/wp/wp4795357.png&text1={user_name}&text2=Welcome+to+BotGhost&text3=Member+{server_members}&avatar={user_icon}
+
